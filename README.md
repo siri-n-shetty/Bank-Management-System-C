@@ -9,7 +9,6 @@ This is a simple command-line Bank Management System implemented in C. The progr
 3. [Functions](#functions)
 4. [Requirements](#requirements)
 5. [Compilation](#compilation)
-6. [License](#license)
 
 ## Features
 
